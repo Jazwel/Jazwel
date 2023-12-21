@@ -4,7 +4,7 @@
    ***Вот что я умею***:
 - Java. Docker. СУБД. ([Репозитолрий с дипломной работой](https://github.com/Jazwel/Diplom-QA60))
 - Тестирование API, CI. ([Репозитолрий с домашней работой](https://github.com/Jazwel/Api-Ci))
-- Selenide. [Репозитолрий с домашней работой](https://github.com/Jazwel/Selenide))
+- Selenide. ([Репозитолрий с домашней работой](https://github.com/Jazwel/Selenide))
 - Написание чеклиста для функциональной проверки личного кабинета. [Ссылка на курсовую работу](https://https://[(https://github.com/Jazwel/Api-Ci)](https://docs.google.com/spreadsheets/d/1-0Kq89cU7Bl6cGLkQphRGfqaBoLh3exiY1zhgCYUjyg/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1-0Kq89cU7Bl6cGLkQphRGfqaBoLh3exiY1zhgCYUjyg/edit?usp=sharing/)
 
 ***Сертификаты Нетологии***:
