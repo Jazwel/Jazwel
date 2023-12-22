@@ -12,9 +12,9 @@
 
 
 - [Окончание курса Тестировщик ПО.pdf](https://netology.ru/sharing/ef4f396e6cc4675c2c52434150aa30ca?utm_source=social&utm_campaign=achievements)  
-- [Автоматезированное тестирование.pdf](https://github.com/Jazwel/Jazwel/files/13693305/certificate.3.pdf)
-- [Git-Система контроля версий.pdf](https://github.com/Jazwel/Jazwel/files/13693308/certificate.1.pdf)
-- [Java для тестировщиков.pdf](https://github.com/Jazwel/Jazwel/files/13693311/certificate.2.pdf)
-- [Ручное тестирование.pdf](https://github.com/Jazwel/Jazwel/files/13693315/certificate.pdf)
+- [Автоматизированное тестирование.pdf](https://netology.ru/sharing/4bcd4f331546fd9d4dde8de860b73134?utm_source=social&utm_campaign=achievements)
+- [Git-Система контроля версий.pdf](https://netology.ru/sharing/e5073a6b1f9f289f71739575b4858c02?utm_source=social&utm_campaign=achievements)
+- [Java для тестировщиков.pdf](https://netology.ru/sharing/cd4e27ad8af070cbe602114439cc3af9?utm_source=social&utm_campaign=achievements)
+- [Ручное тестирование.pdf](https://netology.ru/sharing/e9de79ba47877a17a1e2602522523fba?utm_source=social&utm_campaign=achievements)
 
 
