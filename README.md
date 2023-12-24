@@ -5,6 +5,7 @@
 - Java. Docker. СУБД. ([Репозиторий с дипломной работой](https://github.com/Jazwel/Diplom-QA60))
 - Тестирование API, CI. ([Репозиторий с домашней работой](https://github.com/Jazwel/Api-Ci))
 - Selenide. ([Репозиторий с домашней работой](https://github.com/Jazwel/Selenide))
+- Java. Объекты с внутренним состоянием, управление состоянием при тестировании ([Репозиторий с домашней работой](https://github.com/Jazwel/Radio))
 - Написание чеклиста для функциональной проверки личного кабинета. ([Ссылка на курсовую работу](https://docs.google.com/spreadsheets/d/1-0Kq89cU7Bl6cGLkQphRGfqaBoLh3exiY1zhgCYUjyg/edit?usp=sharing))
 
   
